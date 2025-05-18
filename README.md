@@ -6,7 +6,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,git,vscode,linux,&theme=dark)](https://skillicons.dev)
 
 
-![Visitas](https://komarev.com/ghpvc/?username=typ17&color=orange&label=Profile+Views)
+<!-- ![Visitas](https://komarev.com/ghpvc/?username=typ17&color=orange&label=Profile+Views) -->
 
 
 <br><br><br><br>
